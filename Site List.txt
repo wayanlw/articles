@@ -1,0 +1,55 @@
+https://urlopener.net/
+
+
+https://edition.cnn.com/
+https://www.bbc.com/
+https://www.abc.net.au/
+https://www.facebook.com/
+https://www.youtube.com/
+https://www.reddit.com/
+https://techcrunch.com/
+
+Edge Optimization
+
+
+
+
+
+Base Start
+Chrome - 146MB
+Edge - 270 MB
+Brave - 220 MB
+
+
+Base Settings 5 tabs
+Chrome - 1,067MB
+Edge - 1071MB
+Brave - 730MB
+
+Settings Optimized Start
+Chrome - 146MB
+Edge - After landing page adjustment - 176M
+	Landing Page > Settings (gear) > custom > 
+		1. Background off
+		2. Content off
+	Settings > Privacy, search and services
+		Tracking Prevention - Strict
+		Send "Do Not Track" Requests - yes
+Brave - 
+	Settings > Appearance > Hide brave reward button
+	Shield > Trackers & ad blocking > Aggressive 
+	Social Media Block > untick all
+	Search Engine > change to duck duck go
+	Wallet > None
+	
+
+Settings Optimized 5 tabs
+Chrome (no setting optimization) - 1,067MB
+Edge - 680MB
+Brave - 685MB
+
+
+Ublock 5 tabs
+Chrome (with ublock) - 740MB
+Edge - 650 MB
+Brave (Doesnt require Ublock)- 710MB 
