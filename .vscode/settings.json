@@ -1,0 +1,9 @@
+{
+	"grammarly.selectors": [
+		{
+			"language": "markdown",
+			"scheme": "file",
+			"pattern": "Your data is not your anymore - How I lost all my emails overnight"
+		}
+	]
+}
