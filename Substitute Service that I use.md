@@ -27,4 +27,18 @@ I use an app called "SMS backup and restore" to backup my SMS and calllog to a f
 ### Photos & Videos
 This is one of my primary uses of my mobile phone. I use Google Photos to sync all my photos to google cloud in real time. In June last year, google stopped offering its FREE storage for synced photos. However, they continued to offer free storage for "High Quality" photos uploaded from a Google Pixel phone. For this reason, I bought two Pixel phones for me and for my wife. With the partner sharing features, both of our Google Photos accounts are synced. So all the photos that any of us take is synced (hence backed up) to Google Photos.
 
-In addition to that, I have synced the photos folder in my phone to my computer using syncthing. hhhhhhhhhhhhhhhhhh
+In addition to that, I have synced the photos folder in my phone to my computer using syncthing.
+
+### Note taking
+I have three types of notetaking.
+1. Structure long term learning. Eg. following a course
+2. Note taking related to quick finds. Eg. Simillar to a slipbox in zettlekastin note taking method
+3. quick long term note snippets. Eg. Address of a friends, phone number of a contact that I dont want to save to my contacts etc.
+
+Structured
+
+
+### Documents
+Important documets are scanned using the mobile ( I use CamScanner or microsoft lens) and filed immediately against a cloud storage. I have a setup folder structure in my cloud and every scan will have a place to be filed immediately.
+
+Not so important documents. (Eg. Warranty, payment receipt) - Thease are filed with evrenote using the app [Scannable](https://apps.apple.com/au/app/evernote-scannable/id883338188).
