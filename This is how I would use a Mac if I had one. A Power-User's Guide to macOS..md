@@ -1,4 +1,12 @@
+---
+aliases: 
+tags: 
+title: This is How I Would Use a Mac if I Had One. A Power-User's Guide to macOS.
+---
+
 # This is How I Would Use a Mac if I Had One. A Power-User's Guide to macOS.
+
+![Pasted image 20220904090258](This%20is%20how%20I%20would%20use%20a%20Mac%20if%20I%20had%20one.%20A%20Power-User's%20Guide%20to%20macOS..png)
 
 ## I Got My Hands on a MacBook
 
@@ -44,7 +52,7 @@ The next task was customizing the terminal, as I used the terminal for most task
 **Browser:** Next a browser. Installed [Brave](http://brave.com) browser and configure it for maximum privacy. You can read more about why you should use a privacy-respecting browser and its benefits of it in my previous article [here](https://www.linkedin.com/pulse/how-i-try-use-internet-without-ads-trackers-wayan-wijesinghe/).  
 **Text Editor/IDE:** I needed a good text editor with basic IDE functionality to edit my configs. I installed [VSCode](https://code.visualstudio.com/).  
 **Launcher:** Mac is already far ahead of Windows in this department. You have Spotlight. However, [Alfred](https://www.alfredapp.com/)(PAID) is a better alternative. With its PowerPack it provides a significant efficiency boost. I would happily pay for this software if I ever buy a mac. [Raycast](https://www.raycast.com/) is an upcoming Free alternative for Alfred. [Space Launcher](https://spacelauncherapp.com/) is another alternative launcher where you can launch apps with the Spacebar. However, since I implemented this functionality with my Karabiner config, it was not necessary for me. But some of you might find it interesting.  
-**Task Switcher:** I didn't like the way how MacOS displays the opened apps in the task switcher. It displayed the open apps instead of open windows. For instance, if Excel has multiple files open, you will first have to switch to Excel with `COMMAND+TAB` and then use `COMMAND+tilda` to switch to the correct windows. I installed [Alt-Tab](https://alt-tab-macos.netlify.app/). This provides windows-like alt-tab functionality. ie. If there are different windows of the same app, it shows them separately. Within this app, I changed the view mode to Windows 10 and remapped the keyboard shortcut to `COMMAND+tab` and `COMMAND + ``  
+**Task Switcher:** I didn't like the way how MacOS displays the opened apps in the task switcher. It displayed the open apps instead of open windows. For instance, if Excel has multiple files open, you will first have to switch to Excel with `COMMAND+TAB` and then use `COMMAND+tilda` to switch to the correct windows. I installed [Alt-Tab](https://alt-tab-macos.netlify.app/). This provides windows-like alt-tab functionality. ie. If there are different windows of the same app, it shows them separately. Within this app, I changed the view mode to Windows 10 and remapped the keyboard shortcut to `COMMAND+tab` and `COMMAND + tilda`  
 **Shortcuts**: Since I was using macOS after a few years, I couldn't remember some keyboard shortcuts. As you would have realized by now, I live on the keyboard. I prefer using the keyboard for everything over the mouse. I installed [Cheatsheet](https://www.mediaatelier.com/CheatSheet/). This enables the user to view and access all keyboard shortcuts for an app by holding the `COMMAND` key.  
 **Clipboard Manager:** Clipboard manager is an essential component of my workflow. Clipboard managers keep a history of things that you copied before so that you can paste something you copied prior to the last one. I installed [Maccy](https://github.com/p0deje/Maccy). This is a clipboard manager with clipboard history. I enable automatic pasting so that I can directly paste them to the active windows instead of copying the selection to the clipboard and then pasting again.  
 **Password manager:** I don't reuse any of my passwords and no one should. And you can't practically remember multiple complex passwords. Password managers are the solution. For this, I installed [KeepassXC](https://keepassxc.org/download/#mac). I also have [Bitwarden](https://bitwarden.com/) in my browser as a backup.  
@@ -68,7 +76,7 @@ I wanted a way to keep the installed Apps up-to-date. With homebrew, this was ju
 
 ## Menubar
 
-![No alt text provided for this image](https://media-exp1.licdn.com/dms/image/D5612AQHcJwW3buEicg/article-inline_image-shrink_1500_2232/0/1662292486390?e=1668038400&v=beta&t=PZ6io1xKfwZ2U4VFK0NStrGo4YIUPfDwnLaWFzuyoss)
+![No alt text provided for this image](This%20is%20how%20I%20would%20use%20a%20Mac%20if%20I%20had%20one.%20A%20Power-User's%20Guide%20to%20macOS..jpg)
 
 The menubar is a key component of the macOS. Optimizing menubar real estate and getting the maximum use of it was a priority. So I did below.
 
@@ -78,7 +86,7 @@ The menubar is a key component of the macOS. Optimizing menubar real estate and 
 
 ## Customizing Finder and Some Finder Tips
 
-![No alt text provided for this image](https://media-exp1.licdn.com/dms/image/D5612AQGqFRnCHGKD_Q/article-inline_image-shrink_1000_1488/0/1662291874344?e=1668038400&v=beta&t=uTdienHT9i0mXCoffMXPrPznu2bJqwyIwkO3l1-3rBI)
+![No alt text provided for this image](This%20is%20how%20I%20would%20use%20a%20Mac%20if%20I%20had%20one.%20A%20Power-User's%20Guide%20to%20macOS..jpg)
 
 Finder is the default file manager of Mac-OS. This is far better than windows explorer. In any OS you will be spending a lot of time in a file explorer. You can improve the functionality of Finder with the below configs and tips.
 
