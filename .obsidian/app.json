@@ -1,0 +1,29 @@
+{
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "vimMode": false,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "__attachments",
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "promptDelete": false,
+  "showFrontmatter": true,
+  "strictLineBreaks": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheckDictionary": [
+    "Linaya",
+    "Ammammo"
+  ],
+  "legacyEditor": false,
+  "livePreview": true,
+  "tabSize": 2
+}

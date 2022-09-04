@@ -1,0 +1,16 @@
+{
+  "macros": [
+    {
+      "mobileOnly": false,
+      "icon": "right-arrow",
+      "commandID": "macro-plugin:lint-dlimages-rename",
+      "commands": [
+        "obsidian-linter:lint-file",
+        "obsidian-local-images:download-images",
+        "obsidian-paste-image-rename:batch-rename-all-images"
+      ],
+      "delay": 2000,
+      "name": "Lint-DLImages-Rename"
+    }
+  ]
+}

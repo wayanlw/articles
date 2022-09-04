@@ -1,0 +1,206 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Upload Vulnerabilities",
+      "path": "TryHackMe/Upload Vulnerabilities.md"
+    },
+    {
+      "basename": "01 Complete Beginner Path",
+      "path": "TryHackMe/01 Complete Beginner Path.md"
+    },
+    {
+      "basename": "00 MOC",
+      "path": "00 MOC.md"
+    },
+    {
+      "basename": "Priviledge Escalation",
+      "path": "Priviledge Escalation.md"
+    },
+    {
+      "basename": "OWASP Juice Shop",
+      "path": "OWASP Juice Shop.md"
+    },
+    {
+      "basename": "OWASP Top 10",
+      "path": "OWASP Top 10.md"
+    },
+    {
+      "basename": "HTTP",
+      "path": "HTTP.md"
+    },
+    {
+      "basename": "Cyber Security Paths",
+      "path": "TryHackMe/Cyber Security Paths.md"
+    },
+    {
+      "basename": "^^idor",
+      "path": "^^idor.md"
+    },
+    {
+      "basename": "01 OSINT MOC",
+      "path": "OSINT/01 OSINT MOC.md"
+    },
+    {
+      "basename": "Defensive Offensive Security",
+      "path": "Defensive Offensive Security.md"
+    },
+    {
+      "basename": "How websites work",
+      "path": "How websites work.md"
+    },
+    {
+      "basename": "Burp Suite",
+      "path": "Burp Suite.md"
+    },
+    {
+      "basename": "OSINT Tools",
+      "path": "OSINT/OSINT Tools.md"
+    },
+    {
+      "basename": "OSINT (Irfan Shakeel YT)",
+      "path": "OSINT/OSINT (Irfan Shakeel YT).md"
+    },
+    {
+      "basename": "Getting the Good Stuff - Micah Hoffman",
+      "path": "OSINT/Getting the Good Stuff - Micah Hoffman.md"
+    },
+    {
+      "basename": "OWASP Top 10-49",
+      "path": "__attachments/OWASP Top 10-49.png"
+    },
+    {
+      "basename": "OWASP Top 10-46",
+      "path": "__attachments/OWASP Top 10-46.png"
+    },
+    {
+      "basename": "OWASP Top 10-40",
+      "path": "__attachments/OWASP Top 10-40.png"
+    },
+    {
+      "basename": "OWASP Top 10-41",
+      "path": "__attachments/OWASP Top 10-41.png"
+    },
+    {
+      "basename": "OWASP Top 10-42",
+      "path": "__attachments/OWASP Top 10-42.png"
+    },
+    {
+      "basename": "OWASP Top 10-43",
+      "path": "__attachments/OWASP Top 10-43.png"
+    },
+    {
+      "basename": "OWASP Top 10-44",
+      "path": "__attachments/OWASP Top 10-44.png"
+    },
+    {
+      "basename": "OWASP Top 10-47",
+      "path": "__attachments/OWASP Top 10-47.png"
+    },
+    {
+      "basename": "OWASP Top 10-74",
+      "path": "__attachments/OWASP Top 10-74.png"
+    },
+    {
+      "basename": "OWASP Top 10-73",
+      "path": "__attachments/OWASP Top 10-73.png"
+    },
+    {
+      "basename": "OWASP Top 10-71",
+      "path": "__attachments/OWASP Top 10-71.png"
+    },
+    {
+      "basename": "OWASP Top 10-48",
+      "path": "__attachments/OWASP Top 10-48.png"
+    },
+    {
+      "basename": "OWASP Top 10-50",
+      "path": "__attachments/OWASP Top 10-50.png"
+    },
+    {
+      "basename": "OWASP Top 10-51",
+      "path": "__attachments/OWASP Top 10-51.png"
+    },
+    {
+      "basename": "OWASP Top 10",
+      "path": "__attachments/OWASP Top 10.png"
+    },
+    {
+      "basename": "OWASP Top 10-54",
+      "path": "__attachments/OWASP Top 10-54.png"
+    },
+    {
+      "basename": "OWASP Top 10-70",
+      "path": "__attachments/OWASP Top 10-70.png"
+    },
+    {
+      "basename": "OWASP Top 10-67",
+      "path": "__attachments/OWASP Top 10-67.png"
+    },
+    {
+      "basename": "OWASP Top 10-72",
+      "path": "__attachments/OWASP Top 10-72.png"
+    },
+    {
+      "basename": "OWASP Top 10-63",
+      "path": "__attachments/OWASP Top 10-63.png"
+    },
+    {
+      "basename": "OWASP Top 10-61",
+      "path": "__attachments/OWASP Top 10-61.png"
+    },
+    {
+      "basename": "OWASP Top 10-64",
+      "path": "__attachments/OWASP Top 10-64.png"
+    },
+    {
+      "basename": "OWASP Top 10-65",
+      "path": "__attachments/OWASP Top 10-65.png"
+    },
+    {
+      "basename": "OWASP Top 10-69",
+      "path": "__attachments/OWASP Top 10-69.png"
+    },
+    {
+      "basename": "OWASP Top 10-62",
+      "path": "__attachments/OWASP Top 10-62.png"
+    },
+    {
+      "basename": "OWASP Top 10-59",
+      "path": "__attachments/OWASP Top 10-59.png"
+    },
+    {
+      "basename": "Questions to Ask in an OSINT",
+      "path": "OSINT/Questions to Ask in an OSINT.md"
+    },
+    {
+      "basename": "Introductory Researching",
+      "path": "Introductory Researching.md"
+    },
+    {
+      "basename": "Reverse Shell",
+      "path": "Reverse Shell.md"
+    },
+    {
+      "basename": "Telnet",
+      "path": "Telnet.md"
+    },
+    {
+      "basename": "Metasploit",
+      "path": "Metasploit.md"
+    },
+    {
+      "basename": "WebBreacher OSINT Map",
+      "path": "OSINT/WebBreacher OSINT Map.md"
+    },
+    {
+      "basename": "Tools",
+      "path": "OSINT/Tools.md"
+    },
+    {
+      "basename": "Burp Suite-48",
+      "path": "__attachments/Burp Suite-48.png"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}

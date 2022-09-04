@@ -1,0 +1,343 @@
+{
+  "workspaces": {
+    "Focus": {
+      "main": {
+        "id": "711505652af4761c",
+        "type": "split",
+        "children": [],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "26126e99e8537b2b",
+        "type": "split",
+        "children": [
+          {
+            "id": "95e31b6d4d23b78f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "35479e3299e4e75b",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e4ba2ac5d1159b28",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "\"vim\"",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "456f654c8767e191",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ea707f6b914c2cba",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 333,
+        "collapsed": true
+      },
+      "right": {
+        "id": "dd6b27fe3b138996",
+        "type": "split",
+        "children": [
+          {
+            "id": "f32972dfb9baed3e",
+            "type": "tabs",
+            "dimension": 57.608695652173914,
+            "children": [
+              {
+                "id": "60c4faab98c6e364",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.7132754626224423,
+                      "close": false
+                    }
+                  }
+                }
+              },
+              {
+                "id": "2f0d95b990999949",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "40aec6185a196d93",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "4fdfcd36a35e03f3",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "22184d041359f85d",
+            "type": "tabs",
+            "dimension": 42.391304347826086,
+            "children": [
+              {
+                "id": "de7b7b9a6bceda1c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 272,
+        "collapsed": true
+      },
+      "active": "1252166849bca781"
+    },
+    "Default": {
+      "main": {
+        "id": "f3f785c02c69ba9b",
+        "type": "split",
+        "children": [
+          {
+            "id": "844914261bdca2e7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "4.png"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "26126e99e8537b2b",
+        "type": "split",
+        "children": [
+          {
+            "id": "95e31b6d4d23b78f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "35479e3299e4e75b",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e4ba2ac5d1159b28",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "\"vim\"",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "ea707f6b914c2cba",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 333
+      },
+      "right": {
+        "id": "dd6b27fe3b138996",
+        "type": "split",
+        "children": [
+          {
+            "id": "f32972dfb9baed3e",
+            "type": "tabs",
+            "dimension": 57.60869565217391,
+            "children": [
+              {
+                "id": "60c4faab98c6e364",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "4.png",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.7132754626224423,
+                      "close": false
+                    }
+                  }
+                }
+              },
+              {
+                "id": "2f0d95b990999949",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "4.png",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "40aec6185a196d93",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "4.png",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "4fdfcd36a35e03f3",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "22184d041359f85d",
+            "type": "tabs",
+            "dimension": 42.39130434782609,
+            "children": [
+              {
+                "id": "de7b7b9a6bceda1c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "4.png"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 272
+      },
+      "active": "844914261bdca2e7"
+    }
+  },
+  "active": "Default"
+}
