@@ -4,27 +4,105 @@
     "type": "split",
     "children": [
       {
-        "id": "467139bb1f3787c0",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": []
-        }
-      },
-      {
         "id": "83cdfa3975afac97",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "This is how I would use a Mac if I had one. A Power-User's Guide to macOS..md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
-          "stack": []
+          "stack": [
+            {
+              "leaf": "83cdfa3975afac97",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"This is how I would use a Mac if I had one. A Power-User's Guide to macOS..md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "83cdfa3975afac97",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"This is how I would have used my Mac, if I had one...md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":44},\"to\":{\"line\":18,\"ch\":44}}}"
+            },
+            {
+              "leaf": "83cdfa3975afac97",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Substitute Service that I use.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "83cdfa3975afac97",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"This is how I would have used my Mac, if I had one...md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":91.87632275132275}"
+            },
+            {
+              "leaf": "83cdfa3975afac97",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"This is how I would use a Mac if I had one. A Power-User's Guide to macOS..md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":328,\"ch\":3},\"to\":{\"line\":328,\"ch\":3}},\"scroll\":0}"
+            },
+            {
+              "leaf": "83cdfa3975afac97",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"This is how I would have used my Mac, if I had one...md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":313,\"ch\":0},\"to\":{\"line\":356,\"ch\":0}},\"scroll\":347.0530303030303}"
+            },
+            {
+              "leaf": "83cdfa3975afac97",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"This is how I would use a Mac if I had one. A Power-User's Guide to macOS..md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":337,\"ch\":80},\"to\":{\"line\":337,\"ch\":80}},\"scroll\":235.07708333333332}"
+            },
+            {
+              "leaf": "83cdfa3975afac97",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"This is how I would have used my Mac, if I had one...md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":369,\"ch\":80},\"to\":{\"line\":359,\"ch\":0}},\"scroll\":345.4078282828283}"
+            },
+            {
+              "leaf": "83cdfa3975afac97",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"This is how I would use a Mac if I had one. A Power-User's Guide to macOS..md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":241,\"ch\":114},\"to\":{\"line\":241,\"ch\":114}},\"scroll\":317.0587121212121}"
+            },
+            {
+              "leaf": "83cdfa3975afac97",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"This is how I would have used my Mac, if I had one...md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":309,\"ch\":7},\"to\":{\"line\":223,\"ch\":0}},\"scroll\":209.9002525252525}"
+            },
+            {
+              "leaf": "83cdfa3975afac97",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"This is how I would use a Mac if I had one. A Power-User's Guide to macOS..md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":225,\"ch\":6},\"to\":{\"line\":225,\"ch\":6}},\"scroll\":228.4027039007092}"
+            },
+            {
+              "leaf": "83cdfa3975afac97",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"This is how I would have used my Mac, if I had one...md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":166,\"ch\":0},\"to\":{\"line\":194,\"ch\":100}},\"scroll\":176.07706093189964}"
+            },
+            {
+              "leaf": "83cdfa3975afac97",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"This is how I would use a Mac if I had one. A Power-User's Guide to macOS..md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":98,\"ch\":24},\"to\":{\"line\":98,\"ch\":24}},\"scroll\":181.36580882352942}"
+            },
+            {
+              "leaf": "83cdfa3975afac97",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"This is how I would have used my Mac, if I had one...md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":269,\"ch\":3},\"to\":{\"line\":270,\"ch\":73}},\"scroll\":62.19578853046595}"
+            }
+          ]
         }
       }
     ],
@@ -56,6 +134,10 @@
             "state": {
               "type": "file-explorer",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -71,6 +153,10 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ],
@@ -85,7 +171,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "This is how I would use a Mac if I had one. A Power-User's Guide to macOS..md"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ]
@@ -111,6 +203,10 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -119,6 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "This is how I would use a Mac if I had one. A Power-User's Guide to macOS..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "nfs",
@@ -145,6 +242,10 @@
                   "close": false
                 }
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -153,6 +254,10 @@
             "state": {
               "type": "quiet-outline",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -161,6 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "This is how I would use a Mac if I had one. A Power-User's Guide to macOS..md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +275,10 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -177,9 +287,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "This is how I would use a Mac if I had one. A Power-User's Guide to macOS..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -188,6 +303,10 @@
             "state": {
               "type": "git-view",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -196,6 +315,10 @@
             "state": {
               "type": "BC-matrix",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -204,6 +327,10 @@
             "state": {
               "type": "BC-tree",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -212,6 +339,22 @@
             "state": {
               "type": "BC-matrix",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "fb24908c1ffacdf1",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ],
@@ -222,17 +365,17 @@
     "width": 341.5,
     "collapsed": true
   },
-  "active": "104b3ee233ebc600",
+  "active": "83cdfa3975afac97",
   "lastOpenFiles": [
+    "This is how I would have used my Mac, if I had one...md",
+    "Substitute Service that I use.md",
+    "This is how I would use a Mac if I had one. A Power-User's Guide to macOS..md",
     "TryHackMe/01 Complete Beginner Path.md",
     "00 MOC.md",
     "Priviledge Escalation.md",
     "OWASP Juice Shop.md",
     "OWASP Top 10.md",
     "HTTP.md",
-    "TryHackMe/Cyber Security Paths.md",
-    "^^idor.md",
-    "OSINT/01 OSINT MOC.md",
-    "Defensive Offensive Security.md"
+    "TryHackMe/Cyber Security Paths.md"
   ]
 }

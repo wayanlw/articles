@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "This is how I would use a Mac if I had one. A Power-User's Guide to macOS.",
+      "path": "This is how I would use a Mac if I had one. A Power-User's Guide to macOS..md"
+    },
+    {
+      "basename": "This is how I would have used my Mac, if I had one..",
+      "path": "This is how I would have used my Mac, if I had one...md"
+    },
+    {
+      "basename": "Substitute Service that I use",
+      "path": "Substitute Service that I use.md"
+    },
+    {
       "basename": "Upload Vulnerabilities",
       "path": "TryHackMe/Upload Vulnerabilities.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Metasploit",
       "path": "Metasploit.md"
-    },
-    {
-      "basename": "WebBreacher OSINT Map",
-      "path": "OSINT/WebBreacher OSINT Map.md"
-    },
-    {
-      "basename": "Tools",
-      "path": "OSINT/Tools.md"
-    },
-    {
-      "basename": "Burp Suite-48",
-      "path": "__attachments/Burp Suite-48.png"
     }
   ],
   "omittedPaths": [],
