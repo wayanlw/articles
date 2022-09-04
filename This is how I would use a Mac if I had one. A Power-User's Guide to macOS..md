@@ -1,9 +1,3 @@
----
-aliases: 
-tags: 
-title: This is how I would use a Mac if I had one. A Power-User's Guide to macOS.
----
-
 # This is How I Would Use a Mac if I Had One. A Power-User's Guide to macOS.
 
 ## I Got My Hands on a MacBook
