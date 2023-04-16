@@ -3,7 +3,7 @@
   "foldHeading": true,
   "foldIndent": true,
   "showLineNumber": true,
-  "vimMode": true,
+  "vimMode": false,
   "newLinkFormat": "shortest",
   "useMarkdownLinks": false,
   "attachmentFolderPath": "__attachments",

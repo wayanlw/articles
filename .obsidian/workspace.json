@@ -11,15 +11,35 @@
             "id": "83cdfa3975afac97",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "assets/This is how I would use a Mac if I had one. A Power-User's Guide to macOS..png"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "49a5efdba88e91a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "assets/Data-Ink Ratio. How to make your visualisation more appealing and effective.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "assets/Data-Ink Ratio. How to make your visualisation more appealing and effective.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -100,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321
+    "width": 707
   },
   "right": {
     "id": "a8aaa85f6a141765",
@@ -131,6 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "assets/Data-Ink Ratio. How to make your visualisation more appealing and effective.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "nfs",
@@ -181,6 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "assets/Data-Ink Ratio. How to make your visualisation more appealing and effective.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,6 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "assets/Data-Ink Ratio. How to make your visualisation more appealing and effective.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,66 +248,6 @@
             }
           },
           {
-            "id": "59aa7d80f549dc97",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "db03946336cf14e8",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "104b3ee233ebc600",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "fb24908c1ffacdf1",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "8ab6f92af16f93a4",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
             "id": "b82dc28a2afbbdad",
             "type": "leaf",
             "state": {
@@ -293,21 +258,9 @@
               "pos": 0,
               "stack": []
             }
-          },
-          {
-            "id": "bfb00128ff28e51a",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -327,15 +280,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "23c666a45d4f133c",
+  "active": "49a5efdba88e91a9",
   "lastOpenFiles": [
-    "This is how I would use a Mac if I had one. A Power-User's Guide to macOS..md",
-    "__attachments/This is how I would use a Mac if I had one. A Power-User's Guide to macOS..png",
+    "__attachments/Data-Ink Ratio. How to make your visualisation more appealing and effective-16.png",
+    "__attachments/Data-Ink Ratio. How to make your visualisation more appealing and effective-15.png",
+    "__attachments/Data-Ink Ratio. How to make your visualisation more appealing and effective-14.png",
+    "__attachments/Data-Ink Ratio. How to make your visualisation more appealing and effective-13.png",
+    "__attachments/Data-Ink Ratio. How to make your visualisation more appealing and effective-12.png",
+    "__attachments/Data-Ink Ratio. How to make your visualisation more appealing and effective-11.png",
+    "__attachments/Data-Ink Ratio. How to make your visualisation more appealing and effective-10.png",
+    "__attachments/Data-Ink Ratio. How to make your visualisation more appealing and effective-9.png",
+    "__attachments/Data-Ink Ratio. How to make your visualisation more appealing and effective-8.png",
+    "__attachments/Data-Ink Ratio. How to make your visualisation more appealing and effective-7.png",
+    "__attachments/Data-Ink Ratio. How to make your visualisation more appealing and effective-6.png",
+    "assets/Data-Ink Ratio. How to make your visualisation more appealing and effective.md",
     "This is how I would have used my Mac, if I had one...md",
+    "This is how I would use a Mac if I had one. A Power-User's Guide to macOS..md",
     "Substitute Service that I use.md",
     "My journey of getting off of facebook.md",
     "221014 Phone Addiction.md",

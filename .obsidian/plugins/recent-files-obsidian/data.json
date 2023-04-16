@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "This is how I would use a Mac if I had one. A Power-User's Guide to macOS.",
-      "path": "This is how I would use a Mac if I had one. A Power-User's Guide to macOS..md"
+      "basename": "Data-Ink Ratio. How to make your visualisation more appealing and effective",
+      "path": "assets/Data-Ink Ratio. How to make your visualisation more appealing and effective.md"
     },
     {
       "basename": "This is how I would use a Mac if I had one. A Power-User's Guide to macOS.",
-      "path": "__attachments/This is how I would use a Mac if I had one. A Power-User's Guide to macOS..png"
+      "path": "assets/This is how I would use a Mac if I had one. A Power-User's Guide to macOS..png"
+    },
+    {
+      "basename": "This is how I would use a Mac if I had one. A Power-User's Guide to macOS.",
+      "path": "assets/This is how I would use a Mac if I had one. A Power-User's Guide to macOS..jpg"
+    },
+    {
+      "basename": "02_00",
+      "path": "assets/02_00.gif"
+    },
+    {
+      "basename": "This is how I would use a Mac if I had one. A Power-User's Guide to macOS.",
+      "path": "This is how I would use a Mac if I had one. A Power-User's Guide to macOS..md"
     },
     {
       "basename": "Substitute Service that I use",
@@ -187,14 +199,6 @@
     {
       "basename": "OWASP Top 10-62",
       "path": "__attachments/OWASP Top 10-62.png"
-    },
-    {
-      "basename": "OWASP Top 10-59",
-      "path": "__attachments/OWASP Top 10-59.png"
-    },
-    {
-      "basename": "Questions to Ask in an OSINT",
-      "path": "OSINT/Questions to Ask in an OSINT.md"
     }
   ],
   "omittedPaths": [],
