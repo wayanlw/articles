@@ -1,0 +1,7 @@
+# Phone Use
+
+One day, while we were having a chat, one of my colleagues was complaining that he is on his mobile phone for more than four hours. I immediately remembered the times that I was going through the same when I was using my mobile phone as my main medium of content consumption. I asked him whether he is up for a challenge and told him that if he's ready I can cut down the time by more than half and that will save him 60 hours a month for him to do something he likes to do.
+
+One day one of my colleagues came to me and told me that he is using more than four hours a day in his mobile phone. I immediately understood what he was going through because I was on the same boat many years ago when I was using my mobile phone as my main source of content consumption. I asked him whether he is up for a challenge and if he's ready I can cut down the time by more than half and give him back a few days a month for him to enjoy and to use the time in an activity that he likes to do. He said he was ready for the challenge.
+then we sat together for about an hour and with some changes to his mobile phone and to the way he used his phone. After two weeks when I met him again, he told me that he has cut down the time that he spends on his mobile down to one hour a day. He thanked me and said that he now tries to do the same thing for his friends as well. He also mentioned that his focus has improved by not using some of the toxic social media platforms such as Facebook.
+

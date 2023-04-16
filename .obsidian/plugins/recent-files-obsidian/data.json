@@ -5,12 +5,24 @@
       "path": "This is how I would use a Mac if I had one. A Power-User's Guide to macOS..md"
     },
     {
-      "basename": "This is how I would have used my Mac, if I had one..",
-      "path": "This is how I would have used my Mac, if I had one...md"
+      "basename": "This is how I would use a Mac if I had one. A Power-User's Guide to macOS.",
+      "path": "__attachments/This is how I would use a Mac if I had one. A Power-User's Guide to macOS..png"
     },
     {
       "basename": "Substitute Service that I use",
       "path": "Substitute Service that I use.md"
+    },
+    {
+      "basename": "221014 Phone Addiction",
+      "path": "221014 Phone Addiction.md"
+    },
+    {
+      "basename": "2203 Why I love Linux",
+      "path": "2203 Why I love Linux.md"
+    },
+    {
+      "basename": "2011 Power of Unit Economics",
+      "path": "2011 Power of Unit Economics.md"
     },
     {
       "basename": "Upload Vulnerabilities",
@@ -183,22 +195,6 @@
     {
       "basename": "Questions to Ask in an OSINT",
       "path": "OSINT/Questions to Ask in an OSINT.md"
-    },
-    {
-      "basename": "Introductory Researching",
-      "path": "Introductory Researching.md"
-    },
-    {
-      "basename": "Reverse Shell",
-      "path": "Reverse Shell.md"
-    },
-    {
-      "basename": "Telnet",
-      "path": "Telnet.md"
-    },
-    {
-      "basename": "Metasploit",
-      "path": "Metasploit.md"
     }
   ],
   "omittedPaths": [],
